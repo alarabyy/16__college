@@ -194,12 +194,16 @@
 /* --------------------------------------------------------------------- */
 /* --------------------------------------------------------------------- */
 
+.endfoter{
+  background-color: #202020;
+}
 ul {
   margin: 0px;
   padding: 0px;
 }
 .footer-section {
-background: #151414;
+background-image: url("../img/photo_2023-12-26_17-35-45.jpg");
+/* background: #151414; */
 position: relative;
 }
 .footer-cta {
