@@ -251,7 +251,7 @@ ul {
 }
 .content  span:after {
   right: -45px;
-}
+} 
 .content p {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
@@ -306,3 +306,6 @@ p{ font-size: 1.2rem;}
   h1{font-size: 14px;}
   p{font-size: 12px;}
 }
+
+
+
